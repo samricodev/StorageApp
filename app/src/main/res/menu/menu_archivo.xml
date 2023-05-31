@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemGuardar"
+        android:title="@string/guardar" />
+    <item
+        android:id="@+id/itemAbrir"
+        android:title="@string/abrir" />
+    <item
+        android:id="@+id/itemGuardarSD"
+        android:title="@string/guardarSD" />
+    <item
+        android:id="@+id/itemAbrirSD"
+        android:title="@string/abrirSD" />
+</menu>

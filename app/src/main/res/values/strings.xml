@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlmacenamientoIE</string>
+    <string name="guardar">Guardar</string>
+    <string name="abrir">Abrir</string>
+    <string name="guardarSD">Guardar SD</string>
+    <string name="abrirSD">Abrir SD</string>
+    <string name="editor">Escribe aqui</string>
+    <string name="nombre">Escribe nombre de archivo</string>
+</resources>
